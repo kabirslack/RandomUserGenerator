@@ -1,0 +1,17 @@
+div#root {
+  margin-top: 20px;
+}
+
+.chakra-card {
+  text-align: center;
+  border: 1px solid rgb(235, 147, 205) !important;
+}
+
+.chakra-card img {
+  display: block;
+  margin: 0 auto;
+}
+
+button.btnw {
+  margin-top: 20px;
+}
